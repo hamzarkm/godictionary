@@ -1,3 +1,4 @@
 # godictionary
 
-exo2
+exo1
+
